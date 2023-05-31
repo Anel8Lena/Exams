@@ -1,0 +1,17 @@
+C:\Users\Admin_7\Desktop\Медянцева Экзамен\MedyancevaSessia\bin\Debug\MedyancevaSessia.exe.config
+C:\Users\Admin_7\Desktop\Медянцева Экзамен\MedyancevaSessia\bin\Debug\MedyancevaSessia.exe
+C:\Users\Admin_7\Desktop\Медянцева Экзамен\MedyancevaSessia\bin\Debug\MedyancevaSessia.pdb
+C:\Users\Admin_7\Desktop\Медянцева Экзамен\MedyancevaSessia\obj\Debug\MedyancevaSessia.csproj.AssemblyReference.cache
+C:\Users\Admin_7\Desktop\Медянцева Экзамен\MedyancevaSessia\obj\Debug\MedyancevaSessia.Form1.resources
+C:\Users\Admin_7\Desktop\Медянцева Экзамен\MedyancevaSessia\obj\Debug\MedyancevaSessia.Properties.Resources.resources
+C:\Users\Admin_7\Desktop\Медянцева Экзамен\MedyancevaSessia\obj\Debug\MedyancevaSessia.csproj.GenerateResource.cache
+C:\Users\Admin_7\Desktop\Медянцева Экзамен\MedyancevaSessia\obj\Debug\MedyancevaSessia.csproj.CoreCompileInputs.cache
+C:\Users\Admin_7\Desktop\Медянцева Экзамен\MedyancevaSessia\obj\Debug\MedyancevaSessia.exe
+C:\Users\Admin_7\Desktop\Медянцева Экзамен\MedyancevaSessia\obj\Debug\MedyancevaSessia.pdb
+C:\Users\Admin_7\Desktop\Медянцева Экзамен\MedyancevaSessia\obj\Debug\MedyancevaSessia.Form2.resources
+C:\Users\Admin_7\Desktop\Медянцева Экзамен\MedyancevaSessia\obj\Debug\MedyancevaSessia.Form3.resources
+C:\Users\Admin_7\Desktop\Медянцева Экзамен\MedyancevaSessia\obj\Debug\MedyancevaSessia.Form4.resources
+C:\Users\Admin_7\Desktop\Медянцева Экзамен\MedyancevaSessia\obj\Debug\MedyancevaSessia.Form5.resources
+C:\Users\Admin_7\Desktop\Медянцева Экзамен\MedyancevaSessia\obj\Debug\MedyancevaSessia.Form6.resources
+C:\Users\Admin_7\Desktop\Медянцева Экзамен\MedyancevaSessia\obj\Debug\MedyancevaSessia.Form7.resources
+C:\Users\Admin_7\Desktop\Медянцева Экзамен\MedyancevaSessia\obj\Debug\MedyancevaSessia.Form8.resources
